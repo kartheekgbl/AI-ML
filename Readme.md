@@ -16,37 +16,9 @@ Machine learning algorithms are typically divided into three categories:
 
 supervised learning agan classified into two tasks
 
-i. Regression
+### [i.Regression](D:\github-d\AI-ML\Superisedlearning\Regression\Regression.md)
 
-ii. Classification
-
-### i. Regression:
-
-is a statistical process for estimating the relationships among variables. It is used to predict a continuous outcome variable based on one or more predictor variables
-
-- For example, regression can be used to predict the price of a house based on its square footage, the number of bedrooms, and the location.
-- in regression problem output is a number
-
-Here are some examples of regression tasks:
-
-- Predicting the price of a house
-- Predicting the number of customers who will visit a store on a given day
-- Predicting the temperature on a given day
-- Predicting the demand for a product
-
-### ii. Classification
-
-is a statistical process for predicting a class label for a given data point. It is used to predict a discrete outcome variable based on one or more predictor variables
-
-- For example, classification can be used to predict whether an email is spam or not spam, whether a customer will churn or not, or whether a patient has a particular disease.
-- in regression problem output is a number
-
-Here are some examples of regression tasks:
-
-- Predicting whether an email is spam or not spam
-- Predicting whether a customer will churn or not
-- Predicting whether a patient has a particular disease
-- Predicting whether a product is defective or not
+### [ii.Classification](D:\github-d\AI-ML\Superisedlearning\Classification\Classification.md)
 
 **2. Unsupervised learning:**
 
