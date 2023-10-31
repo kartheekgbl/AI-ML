@@ -16,9 +16,9 @@ Machine learning algorithms are typically divided into three categories:
 
 supervised learning agan classified into two tasks
 
-**[i.Regression](Superisedlearning\Regression\Regression.md)**
+**[i.Regression](https://github.com/kartheekgbl/AI-ML/blob/main/Superised%20learning/Regression/Regression.md)**
 
-**[ii.Classification](Superisedlearning\Classification\Classification.md)**
+**[ii.Classification](https://github.com/kartheekgbl/AI-ML/blob/main/Superised%20learning/Classification/Classification.md)**
 
 **2. Unsupervised learning:**
 
