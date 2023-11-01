@@ -15,6 +15,7 @@ Here are some examples of regression tasks:
 | Type of Regression       | Advantage                                                           | Diadvantages                                              |
 | ------------------------ | ------------------------------------------------------------------- | --------------------------------------------------------- |
 | Linear regression        | Simple to understand and implement                                  | Only models linear relationships                          |
+|Multiple Linear regression|Can model with More Features|Little confusion to understand|
 | Polynomial regression    | Can model non-linear relationships                                  | Can be complex and overfit the data                       |
 | Ridge regression         | Helps to prevent overfitting                                        | Can be computationally expensive                          |
 | Lasso regression         | Helps to prevent overfitting and can be used for feature selection  | Can be sensitive to the choice of regularization paramete |
