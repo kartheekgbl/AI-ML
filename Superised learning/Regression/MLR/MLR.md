@@ -4,7 +4,7 @@ Multiple linear regression is closely related to a simple linear regression mode
 
 The SLR pridicts the output based on one value of single independent variable but MLR predicts the output based on multiple Independend variables
 
-![analyzation]("Images\Analyzation_of_MLR.png")
+![analyzation](Images\Analyzation_of_MLR.png)
 
 Open [Medium article](https://github.com/GUNAND12/multi_linear-Gradient-descent/blob/main/gradient_descent.ipynb) File to Understand Well
 
