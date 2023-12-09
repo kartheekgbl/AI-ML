@@ -7,7 +7,7 @@
 
 ### We have 2 methods to do the problem of non linear regression
 
-- Transformation of non-linear data to linear data, so that the linear regression can handle te data
+- Transformation of non-linear data to linear data, so that the linear regression can handle the data
 - Using polinomial regression
 
 #### 1. Transformation
