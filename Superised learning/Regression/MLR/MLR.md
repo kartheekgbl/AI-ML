@@ -8,6 +8,8 @@ The SLR pridicts the output based on one value of single independent variable bu
 
 Open [Medium article](https://github.com/GUNAND12/multi_linear-Gradient-descent/blob/main/gradient_descent.ipynb) File to Understand Well
 
+### Read this [article](https://towardsdatascience.com/linear-regression-using-gradient-descent-in-10-lines-of-code-642f995339c0)
+
 ### Assumptions of multiple linear Regression
 
 1. **Linearity**: The relationship between dependent and independent variables should be linear
