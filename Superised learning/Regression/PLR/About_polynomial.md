@@ -49,3 +49,4 @@ here image clears your doubt:
 ![Alt text](Images\process2.png)
 
 ## Now This is the time to see the code in PLR series
+## You can know [differnce between](https://medium.com/@hrishavkmr/linear-and-polynomial-regression-1d666e25b016#:~:text=Polynomial%20Regression%20is%20able%20to,if%20exponents%20are%20poorly%20selected.)  linear and polynomial regression
